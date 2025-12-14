@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Config files
+*.key
+*.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

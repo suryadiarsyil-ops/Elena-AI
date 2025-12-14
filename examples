@@ -1,0 +1,6 @@
+mkdir examples
+# Tambah contoh penggunaan
+echo "# Contoh penggunaan ELENA AI
+python elena_advanced.py --mode=code
+python elena_advanced.py --mode=tutorial
+" > examples/USAGE.md
